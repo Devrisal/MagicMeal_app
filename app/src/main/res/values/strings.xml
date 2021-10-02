@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MagicMeal</string>
+    <string name="login"><b><u>Login</u></b></string>
+    <string name="register"><b><u>Register</u></b></string>
+</resources>
